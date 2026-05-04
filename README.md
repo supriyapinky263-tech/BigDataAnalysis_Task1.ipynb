@@ -1,2 +1,15 @@
 # BigDataAnalysis_Task1.ipynb
+
 “Big Data Analysis using PySpark in Google Colab”
+
+*COMPANY*:CODTECH IT SOLUTIONS
+
+*NAME*:GUBBALA SUPRIYA
+
+*INTERN ID*:CTIS9148
+
+*DOMAIN*:DATA ANALYTICS
+
+*DURATION*:4 WEEKS
+
+*MENTOR*:NEELA SANTHOSH KUMAR
